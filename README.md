@@ -1,2 +1,2 @@
 # LeaderLed
-Web site for an electricity company
+Website for an electricity company
